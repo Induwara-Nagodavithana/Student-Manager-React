@@ -22,16 +22,20 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to install Student Manager: 
 1. Clone the repository: 
 	`git clone https://github.com/yourusername/student-manager.git`
+
     `cd student-manager`
 
 2. Install the dependencies using NPM or Yarn:
+
 	`npm install`
+
 	This will install React, MUI, Axios, and all other required dependencies.
     
 ## Running the Project Locally
 
 To run the Student Manager project locally, follow these steps:
 1.  Start the development server:
+
 	`npm start`
 	
 2.  Open your browser and navigate to `http://localhost:3000`. You should see the Student Manager application running.
